@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     - [What I learned](#what-i-learned)
   - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 A small project to make a card of QR Code by scanning which you can open Frontend Mentor website.
@@ -42,5 +40,5 @@ Got a chance to use Flexbox and Media query
 
 ## Acknowledgments
 
-1. All files and design specs are provided by ![Frontend Mentor](https://www.frontendmentor.io/)
-2. I used part of ![Josh Comeau's CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) in my CSS stylesheet. Many Thanks!!
+1. All files and design specs are provided by [Frontend Mentor](https://www.frontendmentor.io/)
+2. I used part of [Josh Comeau's CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/) in my CSS stylesheet. Many Thanks!!
