@@ -1,3 +1,4 @@
+/* Import fonts */
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 
 /* Reset */
@@ -26,15 +27,16 @@ img {
     max-width: 100%;
 }
 
+/* Card styling*/
 .card {
     width: 320px;
-    /* height: 500px; */
     border-radius: 20px;
     padding: 1em 1em 2.5em;
     box-shadow: 0 25px 25px rgba(0 0 0 / 0.0477);
     background-color: #fff;
 }
 
+/* Card image styling*/
 .card__image {
     border-radius: 10px;
     overflow: hidden;
@@ -45,6 +47,7 @@ img {
     padding: 0 1em;
 }
 
+/* Card title styling*/
 .card__title {
     color: #1f314f;
     font-weight: 700;
@@ -54,6 +57,7 @@ img {
     margin-bottom: 1em;
 }
 
+/* Card text styling*/
 .card__text {
     font-size: 0.9375rem;
     line-height: 1.4;
@@ -61,6 +65,7 @@ img {
     color: #68778d;
 }
 
+/* Media queries */
 @media (max-width: 400px) {
     .card__title {
         text-shadow: none;
