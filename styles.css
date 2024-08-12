@@ -49,11 +49,6 @@ img {
 
 /* Card title styling*/
 .card__title {
-    /* color: #1f314f;
-    font-weight: 700;
-    font-size: 1.375rem;
-    line-height: 1.2;
-    text-shadow: 0 4px 4px rgba(0 0 0 / 0.25); */
     margin-bottom: 1em;
 }
 
@@ -62,7 +57,6 @@ img {
     font-weight: 700;
     font-size: 1.375rem;
     line-height: 1.2;
-    text-shadow: 0 4px 4px rgba(0 0 0 / 0.25);
 }
 
 /* Card text styling*/
@@ -73,9 +67,3 @@ img {
     color: #68778d;
 }
 
-/* Media queries */
-@media (max-width: 400px) {
-    .card__title {
-        text-shadow: none;
-    }
-}
