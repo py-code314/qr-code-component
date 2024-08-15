@@ -73,6 +73,9 @@ img {
         background-color: #1f314f;
         box-shadow: 0 0 25px rgba(255 255 255 / 0.15);
     }
+    .card__image {
+        filter: brightness(.8) contrast(1.2);
+    }
     .card__title {
         color: #fff;
     }
