@@ -64,3 +64,19 @@ img {
     color: #68778d;
 }
 
+/* Media query for dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #1f314fad;
+    }
+    .card {
+        background-color: #1f314f;
+        box-shadow: 0 0 25px rgba(255 255 255 / 0.15);
+    }
+    .card__title {
+        color: #fff;
+    }
+    .card__text {
+        color: #d5e1ef;
+    }
+}
